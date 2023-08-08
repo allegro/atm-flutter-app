@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "105906888086",
+    "project_id": "atm-test-607ff",
+    "storage_bucket": "atm-test-607ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105906888086:android:819a557a2dc4ec2d3d91b7",
+        "android_client_info": {
+          "package_name": "com.allegro.atm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105906888086-9sqkdg4s20o87jkr7lg1q4bqphelf3n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allegro.atm",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBUf-49eBiQOqBP_SX2OdQQTKNXWYUK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105906888086-7frc2oq1ngo6jrens10na46jd76evfcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.test3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105906888086:android:4a756a88e69dda383d91b7",
+        "android_client_info": {
+          "package_name": "com.mycompany.test3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBUf-49eBiQOqBP_SX2OdQQTKNXWYUK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105906888086-7frc2oq1ngo6jrens10na46jd76evfcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.test3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105906888086:android:f6c8177bf03214563d91b7",
+        "android_client_info": {
+          "package_name": "pl.allegro.atm.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105906888086-o5nq6ddnqqqsucq6r645k4rq6lr8qkpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.allegro.atm.test",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiBUf-49eBiQOqBP_SX2OdQQTKNXWYUK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105906888086-m4080s69v8gorlanmmuouur72f1csk47.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105906888086-7frc2oq1ngo6jrens10na46jd76evfcl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.test3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
